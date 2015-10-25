@@ -1,5 +1,7 @@
 # Raspicam PHP
 
+[![Join the chat at https://gitter.im/cvuorinen/raspicam-php](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cvuorinen/raspicam-php?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/cvuorinen/raspicam-php.svg?branch=master)](https://travis-ci.org/cvuorinen/raspicam-php)
 
 Raspicam PHP is a library to control the [Raspberry Pi Camera Module](https://www.raspberrypi.org/documentation/raspbian/applications/camera.md) with PHP. It is a wrapper around the command line tool [raspistill](https://www.raspberrypi.org/documentation/usage/camera/raspicam/raspistill.md).
